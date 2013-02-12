@@ -1,0 +1,13 @@
+.gallary{
+margin-left:auto;
+margin-right:auto;
+width:60%;
+}
+.pics{
+float:left
+}
+.block{
+width:100px;
+height:100px; 
+padding:5px;
+}
