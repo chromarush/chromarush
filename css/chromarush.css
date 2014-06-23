@@ -1,17 +1,17 @@
 .container_emphasis{
-	background-color: #ecf6f7
+	background-color: #C4ECF6
 	!important;
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
-	border-color: #184074
+	border-color: #2A5982
 	!important;
 }
 .navbar-brand{
-	color:#184074
+	color:#2A5982
 	!important;
 }
 h3{
-	color:#184074
+	color:#2A5982
 	!important;
 }
 .carousel-caption{
@@ -28,3 +28,9 @@ h3{
 .footer_text{
 	font-size: 10px;
 }
+}
+a:link {color:#2a5982;}      /* unvisited link */
+a:visited {color:#2a5982;}  /* visited link */
+a:hover {color:#FF00FF;}  /* mouse over link */
+a:active {color:#FF00FF;}  /* selected link */
+
