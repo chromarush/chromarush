@@ -1,0 +1,9 @@
+Information Architecture - Chromarush.com
+Home
+	- About
+		- Contact
+		- Volunteer Work
+		- Resume
+	- Portfolio (combine UX/UI, Product Design, and GRaphic Design into 1 page)
+		- individual projects
+	- Resources (UX, BLender, Buisness, Agile)
